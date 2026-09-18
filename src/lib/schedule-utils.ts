@@ -5,7 +5,7 @@ export const SCHEDULE_YEARS = [2026, 2027, 2028] as const;
 export type ScheduleYear = (typeof SCHEDULE_YEARS)[number];
 
 export function isScheduleYearSlug(value: string): value is `${ScheduleYear}` {
-  return value === "2026" || value === "2027";
+  return value === "2026" || value === "2027" || value === "2028";
 }
 
 export function parseScheduleYear(value: string): ScheduleYear | null {
