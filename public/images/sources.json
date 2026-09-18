@@ -1,0 +1,40 @@
+{
+  "generated": "2026-07-28T00:00:00.000Z",
+  "site": "zadarshoreexcursions.com",
+  "status": "placeholders",
+  "files": [
+    "hero.jpg",
+    "hero-home.jpg",
+    "og-default.jpg",
+    "cruise-port.jpg",
+    "historic.jpg",
+    "walking.jpg",
+    "food.jpg",
+    "food-and-wine.jpg",
+    "coastal.jpg",
+    "coast.jpg",
+    "nature.jpg",
+    "compare.jpg",
+    "private.jpg",
+    "photography.jpg",
+    "family.jpg",
+    "wine.jpg",
+    "highlights.jpg",
+    "city.jpg",
+    "old-town.jpg",
+    "sea-organ.jpg",
+    "greeting-to-the-sun.jpg",
+    "krka-waterfalls.jpg",
+    "adriatic.jpg",
+    "plitvice.jpg"
+  ],
+  "note": "TEMPORARY placeholders copied from Split Shore Excursions image set for local development only. Replace with Zadar-licensed photography (Sea Organ, Greeting to the Sun, Old Town, Krka, Gaženica port, Adriatic sunset) before production. Record final licences here.",
+  "intendedSubjects": {
+    "hero.jpg": "Zadar waterfront / Adriatic sunset — production required",
+    "sea-organ.jpg": "Sea Organ steps on the waterfront — production required",
+    "greeting-to-the-sun.jpg": "Greeting to the Sun installation — production required",
+    "krka-waterfalls.jpg": "Krka National Park cascades — production required",
+    "old-town.jpg": "Zadar Old Town / Roman Forum / St Donatus — production required",
+    "cruise-port.jpg": "Gaženica cruise port or shuttle arrival — production required"
+  }
+}

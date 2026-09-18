@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.233Z",
+  "wave": "wave-1d",
+  "port": "zadar",
+  "destSlug": "zadar",
+  "displayName": "Zadar",
+  "counts": {
+    "2026": 75,
+    "2027": 176,
+    "2028_discovery": 79,
+    "2028_published": 17,
+    "public_total": 268,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "PUBLISH",
+    "reason": "validated 17 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 62 restricted/unvalidated",
+    "validatedCount": 17,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 75,
+      "arrival": 60,
+      "departure": 60,
+      "both": 60,
+      "neither": 15,
+      "pctBoth": 80
+    },
+    "2027": {
+      "total": 176,
+      "arrival": 141,
+      "departure": 140,
+      "both": 140,
+      "neither": 35,
+      "pctBoth": 79.5
+    },
+    "2028": {
+      "total": 17,
+      "arrival": 17,
+      "departure": 17,
+      "both": 17,
+      "neither": 0,
+      "pctBoth": 100
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}

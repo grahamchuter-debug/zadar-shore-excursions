@@ -1,0 +1,3 @@
+# Workers Assets: no host redirects here.
+# Configure apex Custom Domain: zadarshoreexcursions.com
+# Configure www → apex via Cloudflare Redirect Rules (301).
